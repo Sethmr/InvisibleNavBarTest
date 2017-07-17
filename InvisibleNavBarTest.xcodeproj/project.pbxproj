@@ -99,7 +99,6 @@
 				TargetAttributes = {
 					0A9FDD411F1CE9B000988DD7 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 4UNJ3P6N9S;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -267,10 +266,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4UNJ3P6N9S;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = InvisibleNavBarTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.vimvest.InvisibleNavBarTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com..example.InvisibleNavBarTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -280,10 +279,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4UNJ3P6N9S;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = InvisibleNavBarTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.vimvest.InvisibleNavBarTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com..example.InvisibleNavBarTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -308,6 +307,7 @@
 				0A9FDD581F1CE9B000988DD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
